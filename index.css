@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(248, 248, 248);
+}
+.block{
+    background-color: white;
+    position: absolute;
+    right: 35%;
+    height: 500px;
+    width: 600px;
+}
+.paragraph{
+    
+    text-align: center;
+    color: pink;
+
+}
+.nomer__telephone{
+    text-align: center;
+    font-size: 24px;
+}
+.photo__girl{
+    position: absolute;
+    margin: 100px;
+    bottom: 0;
+    left: 0;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.paragraph__text{
+    color: pink;
+    position: absolute;
+    right: 180px;
+    top: 200px;
+}
+.text__one {
+    position: absolute;
+    right: 100px;
+    top: 240px;
+}
+.line {
+    width: 180px;
+    height: 6px;
+    background-color: #000;
+    position: absolute;
+    right: 100px;
+    top: 300px;
+}
+.text__two{
+    position: absolute;
+    right: 30px;
+    top: 320px;
+}
